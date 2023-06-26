@@ -7,5 +7,4 @@ https://viraj7066.github.io/Varkheda/
 
 Preview Image👇
 
-![preview 1](https://user-images.githubusercontent.com/123192491/227803248-baf85ff9-f395-48f9-a8a6-c0d52dd4e0f0.png)
-
+![preview 1](https://github.com/viraj7066/Varkheda/blob/main/Screenshot%20(133).png?raw=true)
